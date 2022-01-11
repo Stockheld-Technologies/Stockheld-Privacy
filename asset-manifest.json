@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d99335e5.css",
-    "main.js": "/static/js/main.49fbca03.js",
-    "static/js/787.1d360125.chunk.js": "/static/js/787.1d360125.chunk.js",
-    "index.html": "/index.html",
-    "main.d99335e5.css.map": "/static/css/main.d99335e5.css.map",
-    "main.49fbca03.js.map": "/static/js/main.49fbca03.js.map",
-    "787.1d360125.chunk.js.map": "/static/js/787.1d360125.chunk.js.map"
+    "main.css": "/Stockheld-Privacy/static/css/main.d99335e5.css",
+    "main.js": "/Stockheld-Privacy/static/js/main.a487e7fd.js",
+    "static/js/787.1d360125.chunk.js": "/Stockheld-Privacy/static/js/787.1d360125.chunk.js",
+    "index.html": "/Stockheld-Privacy/index.html",
+    "main.d99335e5.css.map": "/Stockheld-Privacy/static/css/main.d99335e5.css.map",
+    "main.a487e7fd.js.map": "/Stockheld-Privacy/static/js/main.a487e7fd.js.map",
+    "787.1d360125.chunk.js.map": "/Stockheld-Privacy/static/js/787.1d360125.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d99335e5.css",
-    "static/js/main.49fbca03.js"
+    "static/js/main.a487e7fd.js"
   ]
 }
